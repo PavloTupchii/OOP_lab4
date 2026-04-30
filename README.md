@@ -77,6 +77,7 @@ src/
             └── example/
                 └── TextProcessingTest.java # Юніт-тести
 pom.xml                                 # Конфігурація Maven
+
 ## Тестування
 
 Проєкт містить юніт-тести (JUnit 5), що перевіряють:
